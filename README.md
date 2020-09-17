@@ -38,11 +38,15 @@ As mentioned in the [research paper](https://arxiv.org/abs/1508.06576) by **Leon
 
 **Style Layers**
 
-* There are no constraints to choose style layers we can choose from anywhere in the model.
+* There are no constraints to choose style layers we can choose from anywhere in the model
 
 ## Conclusion
 
 Results will be **pretty interesting** when we select a good style for a given content image :v:.
+
+## References
+
+* [Leon Gatys et al., A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 <div align="center">
     &copy <a href="https://github.com/vstark21">V I S H W A S</a>
