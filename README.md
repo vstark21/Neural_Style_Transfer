@@ -12,7 +12,7 @@ There is only one **python** file which is [main_utils](https://github.com/vstar
 | <a href="images/contents/photo2.jpg"><img src="images/contents/photo2.jpg" width=70%></a> | <a href="images/styles/style2.jpg"><img src="images/styles/style2.jpg" width=70%></a> | <a href="images/results/result2.jpg"><img src="images/results/result2.jpg" width=90%></a> |
 | <a href="images/contents/photo3.jpg"><img src="images/contents/photo3.jpg" width=70%></a> | <a href="images/styles/style3.jpg"><img src="images/styles/style3.jpg" width=70%></a> | <a href="images/results/result3.jpg"><img src="images/results/result3.jpg" width=90%></a> |
 
-<div align="center"><small><i>All Content images are clicked by me &smile </i></small></div>
+<div align="center"><small><i>All Content images are clicked by me </i>&#128516</small></div>
 
 ## How it works
 
